@@ -1,0 +1,35 @@
+.state-heading{
+    font-size:20px;
+
+    font-weight: bold;
+   
+  }
+  
+  
+
+  .state-container{
+    display: flex;
+    margin:20px;
+  }
+
+  .edit-state-button{
+    height:40px;
+    width:130px;
+    background-color:green;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left:20px;
+    color:#ffff;
+    margin-top: 10px;
+  }
+
+  .delete-state-button{
+    height:40px;
+    width:130px;
+    background-color: rgb(255, 0, 0);
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left:20px;
+    color:#ffff;
+    margin-top: 10px;
+  }

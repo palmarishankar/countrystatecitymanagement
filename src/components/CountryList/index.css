@@ -1,0 +1,45 @@
+.country-name{
+    font-size:20px;
+    padding:0px;
+    margin-left: 20px;
+  
+    font-weight: bold;
+   
+  }
+  
+  .edit-country-button{
+    height:40px;
+    width:130px;
+    background-color:green;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left:20px;
+    color:#ffff;
+    margin-top: 10px;
+  }
+
+  .delete-country-button{
+    height:40px;
+    width:130px;
+    background-color: rgb(255, 0, 0);
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left:20px;
+    color:#ffff;
+    margin-top: 10px;
+  }
+
+  .country-container{
+    display: flex;
+    margin:10px;
+  }
+
+  .add-state-button{
+    height:50px;
+    width:150px;
+    background-color: blue;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left:20px;
+    color: #ffff;
+  }
