@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countrystatecitymanagement/static/css/main.4759c28c.css",
+    "main.js": "/countrystatecitymanagement/static/js/main.9e529b0e.js",
+    "static/js/453.3b3e35d5.chunk.js": "/countrystatecitymanagement/static/js/453.3b3e35d5.chunk.js",
+    "index.html": "/countrystatecitymanagement/index.html",
+    "main.4759c28c.css.map": "/countrystatecitymanagement/static/css/main.4759c28c.css.map",
+    "main.9e529b0e.js.map": "/countrystatecitymanagement/static/js/main.9e529b0e.js.map",
+    "453.3b3e35d5.chunk.js.map": "/countrystatecitymanagement/static/js/453.3b3e35d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4759c28c.css",
+    "static/js/main.9e529b0e.js"
+  ]
+}
